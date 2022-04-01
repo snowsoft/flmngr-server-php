@@ -1,5 +1,5 @@
 {
-    "name": "edsdk/flmngr-server-php",
+    "name": "snowsoft/flmngr-server-php",
     "description": "Flmngr file manager PHP backend",
     "type": "library",
     "keywords": ["file", "manager", "finder", "image", "upload", "server", "imgpen"],
@@ -8,14 +8,7 @@
     "minimum-stability": "stable",
 
     "authors": [
-        {
-            "name": "EdSDK / N1ED / Flmngr team",
-            "email": "support@n1ed.zendesk.com"
-        },
-        {
-            "name": "Ilia Kandaurov",
-            "email": "ilia@kandaurov.su"
-        }
+       
     ],
     "autoload": {
         "psr-4": {
